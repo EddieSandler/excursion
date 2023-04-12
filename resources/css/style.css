@@ -1,14 +1,30 @@
 .header {
     padding: 60px;
     text-align: center;
-    background: #1abc9c;
     color: white;
     font-size: 50px;
     font-family: Verdana;
-    color: white;
-    text-align: center;
+   
+  
     background-color: black;
   }
   body {
     background-color: rgb(20,30, 1);
  }
+
+ #phone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+ }
+
+
+ a {
+  color: aquamarine;
+ }
+
+ div {
+  background-color: black;
+ }
+
