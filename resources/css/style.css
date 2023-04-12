@@ -1,43 +1,40 @@
-.top,h1 {
-    padding: 60px;
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    font-family: Verdana;
-   
-  
+
+html { 
+    
     background-color: black;
+    font-family: Verdana;
+    color: white;
+    text-align: center 
   }
-  body {
-    background-color: rgb(20,30, 1);
- }
-
- #phone {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-color: black;
   
- }
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+   }
+
+h1 {
+
+    font-weight: normal;
+    font-size: 50px;
+}
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+
+}
 
 
- a {
-  color: aquamarine;
-  font-size: 16px;
- }
+h3 {
+    color: grey;
+    font-size: 21px;
+   
+}
 
- .middle {
-  background-color: black;
-  color: white;
-  font-family: Verdana;
- }
 
- .bottom {
-
- }
-
- .footer {
-  background-color: black;
-  text-align: right;
-  color: white;
- }
+.footer {
+  
+    text-align: right;
+    color: gray;
+    
+   }
